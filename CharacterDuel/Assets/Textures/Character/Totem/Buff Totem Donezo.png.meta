@@ -1,7 +1,217 @@
 fileFormatVersion: 2
 guid: 43bed504f841c3543baa3c9887cad04c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1319384292982839510
+    second: Buff Totem Donezo_0
+  - first:
+      213: -2339991373425133476
+    second: Buff Totem Donezo_1
+  - first:
+      213: -6897198793591560688
+    second: Buff Totem Donezo_2
+  - first:
+      213: 7561146792202026734
+    second: Buff Totem Donezo_3
+  - first:
+      213: 1209109734849163107
+    second: Buff Totem Donezo_4
+  - first:
+      213: 6660480546085855985
+    second: Buff Totem Donezo_5
+  - first:
+      213: 5972299230280946040
+    second: Buff Totem Donezo_6
+  - first:
+      213: 5945700752645930117
+    second: Buff Totem Donezo_7
+  - first:
+      213: -7382309547621629886
+    second: Buff Totem Donezo_8
+  - first:
+      213: 3139110239071873985
+    second: Buff Totem Donezo_9
+  - first:
+      213: 6820920527245418059
+    second: Buff Totem Donezo_10
+  - first:
+      213: -6461431366265752384
+    second: Buff Totem Donezo_11
+  - first:
+      213: -5365264193117940098
+    second: Buff Totem Donezo_12
+  - first:
+      213: -7794928505495220108
+    second: Buff Totem Donezo_13
+  - first:
+      213: -3224560177037468580
+    second: Buff Totem Donezo_14
+  - first:
+      213: 303216840272089031
+    second: Buff Totem Donezo_15
+  - first:
+      213: -6385890697809329410
+    second: Buff Totem Donezo_16
+  - first:
+      213: -8259467057777611205
+    second: Buff Totem Donezo_17
+  - first:
+      213: 7931615803216594500
+    second: Buff Totem Donezo_18
+  - first:
+      213: 53253524771556660
+    second: Buff Totem Donezo_19
+  - first:
+      213: -5136944554183955797
+    second: Buff Totem Donezo_20
+  - first:
+      213: -7580173075586911353
+    second: Buff Totem Donezo_21
+  - first:
+      213: 3137435599759467156
+    second: Buff Totem Donezo_22
+  - first:
+      213: 3086457879004726481
+    second: Buff Totem Donezo_23
+  - first:
+      213: 1513258276707021390
+    second: Buff Totem Donezo_24
+  - first:
+      213: -6949835818202105346
+    second: Buff Totem Donezo_25
+  - first:
+      213: -6046224505266080296
+    second: Buff Totem Donezo_26
+  - first:
+      213: -4917094016085931220
+    second: Buff Totem Donezo_27
+  - first:
+      213: -4756750507615191981
+    second: Buff Totem Donezo_28
+  - first:
+      213: -7306341409110878040
+    second: Buff Totem Donezo_29
+  - first:
+      213: -5079519963256493455
+    second: Buff Totem Donezo_30
+  - first:
+      213: -7870725404811920154
+    second: Buff Totem Donezo_31
+  - first:
+      213: -4996164079667614078
+    second: Buff Totem Donezo_32
+  - first:
+      213: -5501967973995819222
+    second: Buff Totem Donezo_33
+  - first:
+      213: -8687320717924541180
+    second: Buff Totem Donezo_34
+  - first:
+      213: -7216514448762923775
+    second: Buff Totem Donezo_35
+  - first:
+      213: 4086482499285148083
+    second: Buff Totem Donezo_36
+  - first:
+      213: -6751960007299491313
+    second: Buff Totem Donezo_37
+  - first:
+      213: -4249639002018693775
+    second: Buff Totem Donezo_38
+  - first:
+      213: -6988821531588525279
+    second: Buff Totem Donezo_39
+  - first:
+      213: 8708712934726398906
+    second: Buff Totem Donezo_40
+  - first:
+      213: 4263802290343513462
+    second: Buff Totem Donezo_0
+  - first:
+      213: 6173695234164933433
+    second: Buff Totem Donezo_1
+  - first:
+      213: -3536878477629509929
+    second: Buff Totem Donezo_4
+  - first:
+      213: -9107090539743250484
+    second: Buff Totem Donezo_6
+  - first:
+      213: -7770540818774813019
+    second: Buff Totem Donezo_7
+  - first:
+      213: 326569815629586083
+    second: Buff Totem Donezo_8
+  - first:
+      213: 4634633844124477410
+    second: Buff Totem Donezo_9
+  - first:
+      213: 6958754380380419844
+    second: Buff Totem Donezo_10
+  - first:
+      213: 2297791439688675196
+    second: Buff Totem Donezo_11
+  - first:
+      213: -4724203351469498784
+    second: Buff Totem Donezo_12
+  - first:
+      213: -6560007058850550208
+    second: Buff Totem Donezo_13
+  - first:
+      213: -3514377382589267321
+    second: Buff Totem Donezo_14
+  - first:
+      213: -8696175265146756787
+    second: Buff Totem Donezo_15
+  - first:
+      213: 4101174177588465440
+    second: Buff Totem Donezo_16
+  - first:
+      213: 4923986751824135552
+    second: Buff Totem Donezo_19
+  - first:
+      213: 21493909471992506
+    second: Buff Totem Donezo_21
+  - first:
+      213: -1650477113848969567
+    second: Buff Totem Donezo_22
+  - first:
+      213: -8370495034471828100
+    second: Buff Totem Donezo_23
+  - first:
+      213: 5664387140107570265
+    second: Buff Totem Donezo_24
+  - first:
+      213: 6257409163673041845
+    second: Buff Totem Donezo_25
+  - first:
+      213: -6589371199476056497
+    second: Buff Totem Donezo_26
+  - first:
+      213: -7613430058049126312
+    second: Buff Totem Donezo_27
+  - first:
+      213: 4452047748483136708
+    second: Buff Totem Donezo_30
+  - first:
+      213: -4948076881609043760
+    second: Buff Totem Donezo_32
+  - first:
+      213: -2525204026821739345
+    second: Buff Totem Donezo_33
+  - first:
+      213: 1993968440145750653
+    second: Buff Totem Donezo_34
+  - first:
+      213: 5156081915767111742
+    second: Buff Totem Donezo_35
+  - first:
+      213: -4862233098251238699
+    second: Buff Totem Donezo_37
+  - first:
+      213: -292475036385166007
+    second: Buff Totem Donezo_39
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -87,11 +297,620 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Buff Totem Donezo_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d0c6ca7911c2b30800000000000000
+      internalID: 4263802290343513462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 108
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9334ce71b1f5da550800000000000000
+      internalID: 6173695234164933433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 108
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de2b2783cb7aeec0800000000000000
+      internalID: -3536878477629509929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 108
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc77841d76d1d9180800000000000000
+      internalID: -9107090539743250484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 108
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a61140ab4e792490800000000000000
+      internalID: -7770540818774813019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae57fe5485388400800000000000000
+      internalID: 326569815629586083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 108
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7ea070de6815040800000000000000
+      internalID: 4634633844124477410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 108
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b4c96d36729060800000000000000
+      internalID: 6958754380380419844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 76
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fa392e32563ef10800000000000000
+      internalID: 2297791439688675196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 76
+        width: 22
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e53fce412407eb0800000000000000
+      internalID: -4724203351469498784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 76
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e682d165c26f4a0800000000000000
+      internalID: -6560007058850550208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 34
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7828918f36c6a3fc0800000000000000
+      internalID: -3514377382589267321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 76
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41a360bbaaf05780800000000000000
+      internalID: -8696175265146756787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 44
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f4a218f2c4ae830800000000000000
+      internalID: 4101174177588465440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 44
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850535ccd3855440800000000000000
+      internalID: 4923986751824135552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 44
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba99e6c89c5c4000800000000000000
+      internalID: 21493909471992506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 44
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6ce1f3fc35819e0800000000000000
+      internalID: -1650477113848969567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b22c6d1706db80800000000000000
+      internalID: -8370495034471828100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 44
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c076cb712fb9e40800000000000000
+      internalID: 5664387140107570265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb710f2b78c6d650800000000000000
+      internalID: 6257409163673041845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 44
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e3a0a5ec9dd84a0800000000000000
+      internalID: -6589371199476056497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85043bb23b9a75690800000000000000
+      internalID: -7613430058049126312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3a6bd6d9d8cd30800000000000000
+      internalID: 4452047748483136708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 12
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0de5eca46e45bb0800000000000000
+      internalID: -4948076881609043760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac77e3115ca4fcd0800000000000000
+      internalID: -2525204026821739345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a2a385bbffbab10800000000000000
+      internalID: 1993968440145750653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 11
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e304d1e2f251e8740800000000000000
+      internalID: 5156081915767111742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 11
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2869322c0e58cb0800000000000000
+      internalID: -4862233098251238699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Donezo_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db796018be0fbf0800000000000000
+      internalID: -292475036385166007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b398ff280f6940648840683378b03abf
     internalID: 0
     vertices: []
     indices: 
