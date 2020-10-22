@@ -1,7 +1,91 @@
 fileFormatVersion: 2
 guid: 162f2f7e3d4601940af9c349b2460002
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8150330692706901743
+    second: Space Soldier Sprite Sheet_0
+  - first:
+      213: -457194628287246243
+    second: Space Soldier Sprite Sheet_1
+  - first:
+      213: -3236948361947929983
+    second: Space Soldier Sprite Sheet_2
+  - first:
+      213: -2022671608385694007
+    second: Space Soldier Sprite Sheet_3
+  - first:
+      213: 1889926925602622635
+    second: Space Soldier Sprite Sheet_4
+  - first:
+      213: -7062377529096896742
+    second: Space Soldier Sprite Sheet_5
+  - first:
+      213: -4804537780546773537
+    second: Space Soldier Sprite Sheet_6
+  - first:
+      213: 2718624358613848578
+    second: Space Soldier Sprite Sheet_7
+  - first:
+      213: -3618276551323981493
+    second: Space Soldier Sprite Sheet_8
+  - first:
+      213: 3674428583754686641
+    second: Space Soldier Sprite Sheet_9
+  - first:
+      213: -4966421337463020704
+    second: Space Soldier Sprite Sheet_10
+  - first:
+      213: -1617442075004092265
+    second: Space Soldier Sprite Sheet_11
+  - first:
+      213: 2479297425171603419
+    second: Space Soldier Sprite Sheet_12
+  - first:
+      213: 7810260242108134212
+    second: Space Soldier Sprite Sheet_13
+  - first:
+      213: 4827408215903891853
+    second: Space Soldier Sprite Sheet_14
+  - first:
+      213: -3197224638237735724
+    second: Space Soldier Sprite Sheet_15
+  - first:
+      213: -5728635943621400297
+    second: Space Soldier Sprite Sheet_16
+  - first:
+      213: 1453811987118416872
+    second: Space Soldier Sprite Sheet_17
+  - first:
+      213: -3151182567495532510
+    second: Space Soldier Sprite Sheet_18
+  - first:
+      213: 7046714521185162779
+    second: Space Soldier Sprite Sheet_19
+  - first:
+      213: -6665347826920213495
+    second: Space Soldier Sprite Sheet_20
+  - first:
+      213: 6161891953332979523
+    second: Space Soldier Sprite Sheet_21
+  - first:
+      213: -1171689588155478074
+    second: Space Soldier Sprite Sheet_22
+  - first:
+      213: 4765775113625518725
+    second: Space Soldier Sprite Sheet_23
+  - first:
+      213: -4643307432612616164
+    second: Space Soldier Sprite Sheet_24
+  - first:
+      213: -6234432731111230852
+    second: Space Soldier Sprite Sheet_25
+  - first:
+      213: 269972792374926319
+    second: Space Soldier Sprite Sheet_26
+  - first:
+      213: -5483365757499177776
+    second: Space Soldier Sprite Sheet_27
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -87,11 +171,599 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 130
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee12cc259acb1170800000000000000
+      internalID: 8150330692706901743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 130
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d8bb68e7b7a9f0800000000000000
+      internalID: -457194628287246243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 131
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182afc96d9c0413d0800000000000000
+      internalID: -3236948361947929983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 131
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c617e483e60ee3e0800000000000000
+      internalID: -2022671608385694007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 98
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac8dfb868e5a3a10800000000000000
+      internalID: 1889926925602622635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f7a7c2e056dfd90800000000000000
+      internalID: -7062377529096896742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 101
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddd098185ad25db0800000000000000
+      internalID: -4804537780546773537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20217e4437e7ab520800000000000000
+      internalID: 2718624358613848578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 97
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b496533a5ac49cdc0800000000000000
+      internalID: -3618276551323981493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 101
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b06d3734513ef230800000000000000
+      internalID: 3674428583754686641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a8975b1ab31bb0800000000000000
+      internalID: -4966421337463020704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 101
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7904c9a9001bd89e0800000000000000
+      internalID: -1617442075004092265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 67
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfd4ef4fdb386220800000000000000
+      internalID: 2479297425171603419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44336364f4e936c60800000000000000
+      internalID: 7810260242108134212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 67
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81f0c612366ef240800000000000000
+      internalID: 4827408215903891853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d486b2912d21a3d0800000000000000
+      internalID: -3197224638237735724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 67
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71969ecf5fbcf70b0800000000000000
+      internalID: -5728635943621400297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 34
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3e566bc4afc2410800000000000000
+      internalID: 1453811987118416872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 33
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220860a8620c444d0800000000000000
+      internalID: -3151182567495532510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 34
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1614dc9585fac160800000000000000
+      internalID: 7046714521185162779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904bff7477def73a0800000000000000
+      internalID: -6665347826920213495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34700ce9510738550800000000000000
+      internalID: 6161891953332979523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf08f607825dbfe0800000000000000
+      internalID: -1171689588155478074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582cb07373f632240800000000000000
+      internalID: 4765775113625518725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18a138cd78af8fb0800000000000000
+      internalID: -4643307432612616164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72fb066678da79a0800000000000000
+      internalID: -6234432731111230852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 4
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb178403d22fb300800000000000000
+      internalID: 269972792374926319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Soldier Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d488ba45eb27e3b0800000000000000
+      internalID: -5483365757499177776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8628284cfca136e4ebc4bf6032c2ca2d
     internalID: 0
     vertices: []
     indices: 
